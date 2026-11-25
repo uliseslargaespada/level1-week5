@@ -10,7 +10,8 @@ Complete this separate page for Assignment 1. Choose fictional content different
 4. Save. On a local computer, reveal this `index.html` in File Explorer/Finder and open it in a browser. In Codespaces, open `/daily-exercises/day-22/` through the class's forwarded preview route.
 5. Inspect an element and one CSS rule in DevTools. Try a temporary rule change. Make any change you want to keep in `style.css`, save, and reload.
 6. Check wide and narrow widths. Complete [TESTS.md](TESTS.md) with actual observations and any repairs. Complete the explanation below.
-7. Review Git changes, commit your intended work, push, and check this folder on GitHub.
+7. Connect the `script.js` file with HTML and see the output of the code on the console of the browser.
+8. Review Git changes, commit your intended work, push, and check this folder on GitHub.
 
 ## My explanation
 
