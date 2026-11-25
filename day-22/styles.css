@@ -1,0 +1,9 @@
+/* TODO: Add your page's spacing, readable text, and responsive layout. */
+/* Check the result around 320px and 1280px wide. */
+body {
+  font-family: Arial, sans-serif;
+}
+
+p {
+  font-size: 20px;
+}
